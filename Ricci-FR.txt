@@ -1,0 +1,12 @@
+1.	The system shall provide the results of a book research in order of proximity to the location that the user has entered. 
+
+2.	The system shall provide the following information of the library: 
+•	Name
+•	Address
+•	Opening hours
+•	Telephone numbers
+•	Types of membership
+•	Loans periods
+•	Events
+
+3.	The system shall provide a text message with the status of each loan (start and end dates).
