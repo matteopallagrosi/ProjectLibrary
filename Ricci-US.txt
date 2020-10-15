@@ -1,0 +1,3 @@
+1.	As a library owner, I want to register the availability of a book, so that I get new members.
+2.	As a user, I want to have the results in order of proximity, so that I get my book at the most convenient address.
+3.	As a user, I want to register that I have borrowed a book from a library so that other users know it is available
