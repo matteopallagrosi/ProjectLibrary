@@ -1,0 +1,11 @@
+1.	the system shall provide a list of libraries registered on the system (located in the user’s city), ordered 
+        by distance from the user’s current position and with availability of the book requested by the user, and 
+        provide the following information (about the libraries): name, location (street, number), cost of the loan.
+
+2.	the system shall provide the possibility for the "reader" user to enter the following information regarding 
+        a borrowed book: title, author, year of publication, loan expiry date (day, month, year).
+
+3.	the system shall send a status message to the user at the time (hour) set by the user one day before the loan 
+        expiry date (day, month, year), for each book on loan saved in the user's books section, containing the following reminder: 
+        "the book <name, author> must be returned today to the library <name, position (street, number)>".
+

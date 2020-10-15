@@ -1,0 +1,8 @@
+1.	As a student, I want to look for books to borrow (by which title and author) (from library registered in the system), 
+        so that I can study for my university courses.
+
+2.	As a library owner, I want to specify (informations such as title and author) about) the books available for loan in my shop, 
+        so that I can get customers who are looking for them.
+
+3.	As a book reader, I want to save the date by which to return a borrowed book, so that I do not exceed that date and pay no 
+        surcharge.
