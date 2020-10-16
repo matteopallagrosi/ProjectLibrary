@@ -1,0 +1,13 @@
+1.	The system shall provide a list of libraries registered on the system, ordered by distance from the user’s current position and with availability of the book requested by the user, and provide the following information: name, address (Google Maps connection), telephone number, opening hours, loan periods. 
+        
+2.    	The system shall provide the possibility for the "reader" user to enter the following information regarding a borrowed book: title, author, belonging library, loan expiry date (day, month, year).
+
+3.      The system shall send a status message to the user many days (1 to 3) before the loan expiry date (day, month, year) according to what the user has set, for each book on loan saved in their books section, containing the following reminder: "the book <name, author> must be returned within <loan expiry date> to the library <name, address>".
+
+4.      The system shall provide the possibility for the reader to write a review on a library.
+
+5.      prenotazione sessione consultazione
+ 
+6.      scambio interbibliotecario
+
+7.      
