@@ -1,7 +1,7 @@
 1.	//As a student, I want to look for books to borrow (by which title and author) (from library registered in the system), 
         so that I can study for my university courses.//
-
-2.	As a library owner, I want to specify title, author, literary genre, publishing house and year of publication of the books                 available for loan in my shop, so that I can get customers who are looking for them.
+ 
+2.	As a library owner, I want to specify title, author, literary genre, publishing house and year of publication of the books available for loan in my shop, so that I can get         customers who are looking for them.
 
 3.	As a book reader, I want to write down the date by which to return a borrowed book, so that I do not exceed that date and pay no 
         surcharge.
@@ -12,5 +12,5 @@
 
 6.      As a user, I want to reserve books that are currently unavailable, so that I can acquire them when they are returned.
 
-7.      As a user, I want to check the availability of a book at the libraries registered on the system, sorted by distance from my current         position, so that I can choose the closest one.
+7.      As a user, I want to check the availability of a book at the libraries registered on the system, sorted by distance from my current position, so that I can choose the             closest one.
     
